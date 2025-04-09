@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utkin_PP", "Utkin_PP\Utkin_PP.csproj", "{167A94E7-EA50-4086-A1DE-D458889BBA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{560ABDA6-62B5-4BF9-B6C2-34D9C7B736C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167A94E7-EA50-4086-A1DE-D458889BBA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167A94E7-EA50-4086-A1DE-D458889BBA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167A94E7-EA50-4086-A1DE-D458889BBA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167A94E7-EA50-4086-A1DE-D458889BBA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560ABDA6-62B5-4BF9-B6C2-34D9C7B736C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560ABDA6-62B5-4BF9-B6C2-34D9C7B736C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560ABDA6-62B5-4BF9-B6C2-34D9C7B736C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560ABDA6-62B5-4BF9-B6C2-34D9C7B736C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
